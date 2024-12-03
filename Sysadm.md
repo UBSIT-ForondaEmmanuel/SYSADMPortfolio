@@ -2,10 +2,10 @@
 
 |  SCHOOL OF INFORMATION TECHNOLOGY |  |  |
 | ----- | :---- | :---: |
-| NAME:  |  |   |
-| SECTION: | DATE SUBMITTED: |  |
+| NAME: Emmanuel L. Foronda  |  |   |
+| SECTION: IDC1 | DATE SUBMITTED: 12/08/24 |  |
 
-# **\<SUBJECT CODE\> PORTFOLIO**
+# **SYSADM1 PORTFOLIO**
 
 **Table of Contents**
 
@@ -43,7 +43,7 @@
 | Final Exam |  |  |
 | Course Reflection |  |  |
 
-**\<insert your scanned activities here include title\>**
+**Organizational Policies**
 
 **Quiz 1:**
 
