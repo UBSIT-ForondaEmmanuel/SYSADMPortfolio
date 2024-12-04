@@ -77,7 +77,7 @@ Recall the e-commerce website scenario we discussed earlier. Given the expected 
 
 ● Optimize VLAN Design: Segment VLANs further to reduce broadcast traffic. 
 
-**![][image1]**  
+**![Screenshot 2024-12-04 083735](https://github.com/user-attachments/assets/c6e8d208-1733-4c6e-8ffe-ed339380722d)**  
 The given network topology is designed with a **hierarchical structure** (core, distribution, and access layers) that promotes scalability, modularity, and efficient traffic management. This structure ensures that the network can handle increased user demand by distributing workloads across layers effectively. 
 
 The **redundant connections** between routers, multilayer switches, and access switches improve fault tolerance and minimize the risk of network downtime. If one path or device fails, traffic can seamlessly reroute, ensuring uninterrupted service. 
