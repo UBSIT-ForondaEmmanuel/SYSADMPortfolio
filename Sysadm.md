@@ -41,6 +41,14 @@
 | Final Exam |  |  |
 | Course Reflection |  |  |
 
+|Prelims:|
+First Grading exam
+https://github.com/UBSIT-ForondaEmmanuel/SYSADMPortfolio/blob/firstGrading/images/Exam.jpg
+Midterms
+
+Finals
+
+
 **Organizational Policies**
 
 **Quiz 1:**
