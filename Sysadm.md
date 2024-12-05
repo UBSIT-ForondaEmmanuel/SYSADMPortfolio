@@ -12,24 +12,22 @@
 | Name of Activities | Date of Activity | Page No. |
 | :---- | :---- | :---- |
 | **First Grading** |  |  |
-| Quizzes |  |  |
+| Quizzes: |  |  |
 | Quiz 1 |  | 1 |
 | Quiz 2 |  | 3 |
 | Quiz 3 |  |  |
-| Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| Lab Activities:  |  |  |
+| FGE_LW3 Managing Services in Windows | 09/11/2024 |  |
+| FGE_LW4 Managing Services in Linux | 09/11/2024 |  |
 | First Grading Exam |  |  |
 | **Midterms** |  |  |
 | Quizzes |  |  |
-| Quiz 1 |  |  |
+| Quiz 1 | 10/01/2024 |  |
 | Quiz 2 |  |  |
 | Quiz 3 |  |  |
-| Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| Lab Activities: |  |  |
+| M_LW1 Print Services | 10/02/2024 |  |
+| M_LW2 Web Server | 10/16/2024 |  |
 | Midterm Exam |  |  |
 | **Finals** |  |  |
 | Quizzes |  |  |
@@ -37,9 +35,9 @@
 | Quiz 2 |  |  |
 | Quiz 3 |  |  |
 | Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| FLW1_Kerberos | 11/13/2024 |  |
+| FLW1_Kerberos(1) | 11/13/2024 |  |
+| FLW2 Git | 11/20/2024 |  |
 | Final Exam |  |  |
 | Course Reflection |  |  |
 
